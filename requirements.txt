@@ -1,0 +1,4 @@
+numpy
+pandas
+pyportfolioopt==0.4.3
+powerlaw==1.5
